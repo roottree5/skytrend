@@ -12,25 +12,6 @@ SKYTREND는 기상청 공공 API의 날씨 데이터와 서울 주요 상권(용
   - 시각화: Matplotlib, Seaborn, Plotly
   - 웹 대시보드: Streamlit
 
-## 프로젝트 구조
-```
-skytrend/
-├── src/
-│   ├── dashboard/
-│   │   └── app.py
-│   ├── models/
-│   │   ├── __init__.py
-│   │   └── prediction_models.py
-│   ├── database.py
-│   └── data_collector.py
-├── data/
-│   └── seoul_sales_data.csv
-├── notebooks/
-│   ├── data_analysis.ipynb
-│   └── data_preprocessing.ipynb
-└── requirements.txt
-```
-
 ## 주요 분석 결과
 
 ### 1. 상권별 매출 예측
