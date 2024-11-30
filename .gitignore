@@ -1,0 +1,6 @@
+# .ipynb와 .csv 파일만 허용하고 나머지는 모두 무시
+*
+!.gitignore
+!*.ipynb
+!*.csv
+!README.md
