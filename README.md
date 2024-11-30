@@ -40,33 +40,33 @@ SKYTREND는 기상청 공공 API의 날씨 데이터와 서울 주요 상권(용
 ## 데이터 시각화
 ### 1. 계절별 평균 매출 비교
 #### 용산전자상가
-![용산계절별매출비교](./images/용산계절별평균매출비교.png)
+![용산계절별매출비교](./images/yongsan_seasonal_sales.png)
 
 #### 가산디지털단지
-![가산계절별매출비교](./images/22가산날씨매출상관관계.png)
+![가산계절별매출비교](./images/gasan_seasonal_sales.png)
 
 #### 노량진역
-![노량진계절별매출비교](./images/22노량진날씨,매출 상관관계.png)
+![노량진계절별매출비교](./images/norangjin_seasonal_sales.png)
 
 ### 2. 날씨-매출 상관관계 분석
 #### 용산전자상가 (2022-2023)
-![2022용산상관관계](./images/22용산 날씨,매출 상관관계.png)
-![2023용산상관관계](./images/23용산 날씨,매출 상관관계.png)
+![2022용산상관관계](./images/22_yongsan_weather_correlation.png)
+![2023용산상관관계](./images/23_yongsan_weather_correlation.png)
 
 #### 가산디지털단지 (2022-2023)
-![2022가산상관관계](./images/22가산날씨매출상관관계.png)
-![2023가산상관관계](./images/23가산날씨매출상관관계.png)
+![2022가산상관관계](./images/22_gasan_weather_correlation.png)
+![2023가산상관관계](./images/23_gasan_weather_correlation.png)
 
 #### 노량진역 (2022-2023)
-![2022노량진상관관계](./images/22노량진날씨,매출 상관관계.png)
-![2023노량진상관관계](./images/23노량진날씨,매출 상관관계.png)
+![2022노량진상관관계](./images/22_norangjin_weather_correlation.png)
+![2023노량진상관관계](./images/23_norangjin_weather_correlation.png)
 
 ### 3. 날씨 요소별 매출 영향
 #### 용산전자상가
-![용산기온강수습도매출](./images/용산기온강수량습도매출관계.png)
+![용산날씨요소영향](./images/yongsan_weather_sales_relationship.png)
 
 #### 가산디지털단지
-![가산기온강수습도매출](./images/가산기온강수량습도매출관계.png)
+![가산날씨요소영향](./images/gasan_weather_sales_relationship.png)
 
 #### 노량진역
-![노량진기온강수습도매출](./images/노량진기온강수량습도매출관계.png)
+![노량진날씨요소영향](./images/norangjin_weather_sales_relationship.png)
