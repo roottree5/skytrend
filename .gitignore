@@ -1,6 +1,11 @@
-# .ipynb와 .csv 파일만 허용하고 나머지는 모두 무시
+# 모든 파일 무시
 *
+
+# .gitignore 파일은 포함
 !.gitignore
-!*.ipynb
+
+# csv와 ipynb 파일만 포함
 !*.csv
-!README.md
+!*.ipynb
+!data/**/*.csv
+!notebooks/**/*.ipynb
